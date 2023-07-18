@@ -35,4 +35,3 @@ class LinkedList:
 myLinkedList = LinkedList(4)
 myLinkedList.append(55)
 myLinkedList.printList()
-
